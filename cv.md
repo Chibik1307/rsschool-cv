@@ -1,5 +1,6 @@
 ### **Hello!** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### **My name is Anna Mitrofanova and i'm learning programming.**
+![My photo](./photo%20profile.jpg)
 ----
 **You can find me on:**
 
