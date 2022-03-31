@@ -10,7 +10,7 @@
    alt="GitHub" width="22px"
    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"
    /> </a>
- - LinkdeIn </a> <a href="https://www.linkedin.com/in/anna-m-b19584227/">  <img
+ - LinkdeIn <a href="https://www.linkedin.com/in/anna-m-b19584227/">  <img
    align="left" alt="LinkdeIn" width="22px"
    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
    /> </a>
@@ -20,7 +20,8 @@
    /> </a>
  - Discord <a href="https://discordapp.com/users/409028107039801354/">  <img align="left"
    alt="Discord" width="22px"
-   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a>
+   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" 
+   /> </a>
 
 ***
 
