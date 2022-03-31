@@ -18,10 +18,13 @@
    /> </a>
  - Discord <a href="https://discordapp.com/users/409028107039801354/">  <img align="left"
    alt="Discord" width="22px"
-   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> </a>
+   
 ***
+
 My goal is to be a great web-developer. I am constantly learning new, and what i have today:
-***Skills and Tools***
+
+*** Skills and Tools ***
  - [X] JavaScript
  - [X] HTML
  - [X] CSS
@@ -31,7 +34,7 @@ My goal is to be a great web-developer. I am constantly learning new, and what i
  - [X] GitLub
  - [X] Visual Studio
 
-***Examples of works***
+*** Examples of works ***
  - [Watches-online-store](https://github.com/Chibik1307/Watches-online-store.git)
  - [Promodoro Timer](https://github.com/Chibik1307/promodoro-timer.git) ([Advent of JavaScript](https://www.adventofjs.com/?ck_subscriber_id=1525404031) & [Advent of CSS](https://www.adventofcss.com/?ck_subscriber_id=1525404031))
  - [eCommerce Component](https://github.com/Chibik1307/ecommerce-component.git) ([Advent of JavaScript](https://www.adventofjs.com/?ck_subscriber_id=1525404031) & [Advent of CSS](https://www.adventofcss.com/?ck_subscriber_id=1525404031))
